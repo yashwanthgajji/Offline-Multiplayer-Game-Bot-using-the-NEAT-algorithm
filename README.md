@@ -28,4 +28,4 @@ This is a simulation project of using Genetic algorithms and NEAT technique in c
 -	In AI Player, AI bot plays the game itself.
 -	In Train AI, training the bots gets started and a fit bot will be stored in winner.pk1 file.
 -	Press “X” to close the game from any point.
-                  “LEARN THINGS TO MAKE THINGS LEARN”
+#                   “LEARN THINGS TO MAKE THINGS LEARN”
